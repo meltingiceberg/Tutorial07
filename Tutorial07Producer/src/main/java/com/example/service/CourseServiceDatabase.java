@@ -13,7 +13,7 @@ import lombok.extern.slf4j.Slf4j;
 public class CourseServiceDatabase implements CourseService {
 
 	@Autowired
-	CourseMapper courseMapper;
+	private CourseMapper courseMapper;
 	
 	@Override
 	public CourseModel selectCourse(String id) {
