@@ -89,3 +89,9 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.lsp4e 1 0 2017-11-01 19:23:13.271
 !MESSAGE Non IFiles not supported yet
+
+!ENTRY org.eclipse.jdt.ui 2 0 2017-11-02 09:05:58.691
+!MESSAGE The 'Spring Annotation Proposal' proposal computer from the 'org.springframework.ide.eclipse.quickfix' plug-in did not complete normally. The extension took too long to return from the 'computeCompletionProposals()' operation.
+
+!ENTRY org.eclipse.jdt.ui 2 0 2017-11-02 09:07:07.290
+!MESSAGE The 'org.eclipse.recommenders.completion.rcp.javaCompletionProposalComputer.intelligent' proposal computer from the 'org.eclipse.recommenders.completion.rcp' plug-in did not complete normally. The extension took too long to return from the 'computeCompletionProposals()' operation.
