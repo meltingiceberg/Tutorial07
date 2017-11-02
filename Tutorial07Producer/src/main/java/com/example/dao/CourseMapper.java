@@ -3,6 +3,7 @@ package com.example.dao;
 import java.util.List;
 
 import org.apache.ibatis.annotations.Many;
+import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Result;
 import org.apache.ibatis.annotations.Results;
@@ -11,6 +12,7 @@ import org.apache.ibatis.annotations.Select;
 import com.example.model.CourseModel;
 import com.example.model.StudentModel;
 
+@Mapper
 public interface CourseMapper {
 	@Select("select id_course, name, credits from course where id_course = #{id}")
     @Results(value = {
