@@ -49,7 +49,7 @@ public interface StudentMapper
     @Update("UPDATE student SET name = #{name}, gpa = #{gpa} WHERE npm = #{npm}")
     void updateStudent(StudentModel student);
     
-    @Select("select course.id_course, name, credits "
+    @Select("select course.id_course as idCourse, name, credits "
     		+ "from studentcourse join course "
     		+ "on studentcourse.id_course = course.id_course "
     		+ "where studentcourse.npm = #{npm}")
