@@ -43,7 +43,6 @@
                 <center th:case="'/student/add'">Menambah Mahasiswa</center>
             </div>
             <center th:if="${#httpServletRequest.requestURI.contains('/student/update')}" th:text="'Memperbarui Data Mahasiswa NPM ' + ${student.npm}">Memperbarui Data Mahasiswa</center>
-            <center th:if="${#httpServletRequest.requestURI.contains('/student/view')}" th:text="'Data Mahasiswa NPM ' + ${student.npm}">Memperbarui Data Mahasiswa</center>
             <center th:if="${#httpServletRequest.requestURI.contains('/student/delete')}" th:text="'Menghapus Mahasiswa NPM ' + ${student.npm}">Menghapus Mahasiswa</center>
             <center th:if="${#httpServletRequest.requestURI.contains('/student/add/submit')}">Menambah Mahasiswa ini</center>
             <center th:if="${#httpServletRequest.requestURI.contains('/course/view')}" th:text="'Detail Mata Kuliah ' + ${course.idCourse}">Detail Mata Kuliah</center>
