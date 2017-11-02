@@ -217,3 +217,139 @@
 2017-11-02 11:24:46,864 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
 2017-11-02 11:24:47,086 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-11-02 11:24:47,102 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Producer\src\test\resources
+2017-11-02 11:41:07,343 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:41:07,406 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:41:07,406 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-02 11:41:07,422 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:41:07,422 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Producer\src\test\resources
+2017-11-02 11:41:12,911 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:41:12,933 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:41:12,942 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-02 11:41:12,953 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:41:12,953 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:41:58,294 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:41:58,309 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:41:58,320 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:41:58,329 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:41:58,344 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:42:56,392 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:42:56,407 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:42:56,422 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:42:56,454 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:42:56,454 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:43:23,176 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:43:23,185 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:43:23,201 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:43:23,245 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:43:23,245 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:43:42,424 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:43:42,506 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:43:42,523 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:43:42,554 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:43:42,554 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:44:37,784 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:44:37,918 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:44:37,949 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:44:38,177 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:44:38,177 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:45:23,762 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:45:23,793 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:45:23,809 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:45:23,854 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:45:23,854 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:45:49,051 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:45:49,067 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:45:49,083 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:45:49,098 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:45:49,114 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:49:52,798 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:49:52,813 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:49:52,845 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:49:52,881 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:49:52,881 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:50:22,282 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:50:22,291 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:50:22,302 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:50:22,313 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:50:22,318 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:51:50,438 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:51:50,461 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:51:50,483 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:51:50,508 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:51:50,509 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:52:02,415 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:52:02,432 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:52:02,439 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:52:02,470 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:52:02,470 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:53:46,382 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:53:46,412 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:53:46,439 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:53:46,453 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:53:46,453 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:56:49,614 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:56:49,631 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:56:49,646 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:56:49,662 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:56:49,662 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:56:53,076 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:56:53,091 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:56:53,107 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:56:53,123 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:56:53,123 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:57:02,594 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:57:02,610 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:57:02,639 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:57:02,670 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:57:02,670 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:58:14,821 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer
+2017-11-02 11:58:14,832 [Worker-114] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-11-02 11:58:28,141 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:58:28,219 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:58:28,222 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:58:28,238 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:58:28,238 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:58:34,186 [Worker-118] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer
+2017-11-02 11:58:34,186 [Worker-118] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-11-02 11:58:39,240 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:58:39,271 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:58:39,291 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:58:39,307 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:58:39,307 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 11:58:47,483 [Worker-98] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer
+2017-11-02 11:58:47,483 [Worker-98] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-11-02 11:59:07,514 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:59:07,529 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 11:59:07,553 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 11:59:07,573 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 11:59:07,573 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 12:03:17,849 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:03:17,864 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 12:03:17,880 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 12:03:17,896 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:03:17,911 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 12:03:48,736 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:03:48,751 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 12:03:48,775 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 12:03:48,791 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:03:48,791 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 12:08:00,018 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:08:00,018 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-02 12:08:00,018 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-02 12:08:00,034 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:08:00,034 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 12:08:08,445 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:08:08,460 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-02 12:08:08,460 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-11-02 12:08:08,460 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:08:08,460 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Producer\src\test\resources
+2017-11-02 12:19:27,713 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:19:27,729 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 12:19:27,744 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 12:19:27,775 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:19:27,775 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
+2017-11-02 12:30:35,974 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:30:36,021 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-11-02 12:30:36,037 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 61 resources
+2017-11-02 12:30:36,052 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-02 12:30:36,052 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\eclipse-workspace\Tutorial07\Tutorial07Consumer\src\test\resources
